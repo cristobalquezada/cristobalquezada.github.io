@@ -103,5 +103,46 @@ window.CATALOGO_MATERIALES = [
   color: "#496d7b",
   symbol: "▤",
   url: "materiales/escolar/1m/historia/u4/U4-08-1M-HIS.html"
+},
+  {
+  id: 6,
+  title: "Clase 6: ¿Qué es el mercado?",
+  section: "school",
+  level: "1º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Concepto de mercado, intercambio de bienes y servicios, compradores, vendedores y agentes económicos. Texto del Estudiante, páginas 260–263.",
+  tags: [
+    "Economía",
+    "Mercado",
+    "Intercambio",
+    "Bienes y servicios",
+    "Agentes económicos"
+  ],
+  color: "#496d7b",
+  symbol: "▤",
+  url: "materiales/escolar/1m/historia/u4/U4-06-1M-HIS.html"
+},
+
+{
+  id: 7,
+  title: "Clase 7: ¿Cómo funciona el mercado?",
+  section: "school",
+  level: "1º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Funcionamiento del mercado mediante la relación entre oferta, demanda y precios, utilizando situaciones económicas cotidianas. Texto del Estudiante, páginas 264–267.",
+  tags: [
+    "Economía",
+    "Mercado",
+    "Oferta",
+    "Demanda",
+    "Precios"
+  ],
+  color: "#496d7b",
+  symbol: "▤",
+  url: "materiales/escolar/1m/historia/u4/U4-07-1M-HIS.html"
 }
 ];

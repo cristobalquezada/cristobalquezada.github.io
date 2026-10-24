@@ -83,6 +83,25 @@ window.CATALOGO_MATERIALES = [
     color: "#765575",
     symbol: "▤",
     url: "materiales/escolar/7b/historia/u4/U4-06-7B-HIS.html"
-  }
-
+  },
+{
+  id: 5,
+  title: "Clase 8: ¿Por qué cambian la oferta y la demanda?",
+  section: "school",
+  level: "1º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Factores que modifican la oferta y la demanda, como los ingresos, las preferencias, los costos y la tecnología. Análisis de situaciones económicas cotidianas. Texto del Estudiante, páginas 268–269.",
+  tags: [
+    "Economía",
+    "Mercado",
+    "Oferta",
+    "Demanda",
+    "Precios"
+  ],
+  color: "#496d7b",
+  symbol: "▤",
+  url: "materiales/escolar/1m/historia/u4/U4-08-1M-HIS.html"
+}
 ];

@@ -146,3 +146,66 @@ window.CATALOGO_MATERIALES = [
   url: "materiales/escolar/1m/historia/u4/U4-07-1M-HIS.html"
 }
 ];
+// ORDEN AUTOMÁTICO DE LOS MATERIALES
+
+window.CATALOGO_MATERIALES.sort((a, b) => {
+
+  // 1. Material escolar antes que preparación PAES
+  if (a.section !== b.section) {
+    return a.section === "school" ? -1 : 1;
+  }
+
+  // 2. Ordenar los cursos
+  const ordenCursos = [
+    "7º Básico",
+    "8º Básico",
+    "1º Medio",
+    "2º Medio",
+    "3º Medio",
+    "4º Medio"
+  ];
+
+  if (a.section === "school") {
+    const cursoA = ordenCursos.indexOf(a.level);
+    const cursoB = ordenCursos.indexOf(b.level);
+
+    if (cursoA !== cursoB) {
+      return cursoA - cursoB;
+    }
+  }
+
+  // 3. Ordenar por asignatura
+  const asignatura = (a.subject || "").localeCompare(
+    b.subject || "",
+    "es"
+  );
+
+  if (asignatura !== 0) {
+    return asignatura;
+  }
+
+  // 4. Ordenar por unidad
+  const unidadA = parseInt(a.unit?.match(/\d+/)?.[0] || "0");
+  const unidadB = parseInt(b.unit?.match(/\d+/)?.[0] || "0");
+
+  if (unidadA !== unidadB) {
+    return unidadA - unidadB;
+  }
+
+  // 5. Ordenar por número de clase
+  const claseA = parseInt(
+    a.title?.match(/Clase\s+(\d+)/i)?.[1] || "0"
+  );
+
+  const claseB = parseInt(
+    b.title?.match(/Clase\s+(\d+)/i)?.[1] || "0"
+  );
+
+  if (claseA !== claseB) {
+    return claseA - claseB;
+  }
+
+  // 6. Orden alfabético para otros materiales
+  return a.title.localeCompare(b.title, "es");
+
+});

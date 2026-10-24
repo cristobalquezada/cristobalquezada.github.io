@@ -1,0 +1,359 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>U4-06-1M-HIS · ¿Qué es el mercado?</title>
+<style>
+:root{--n:#082d67;--b:#1769aa;--bs:#e9f4fc;--g:#258c4b;--gs:#e9f6ee;--o:#ee9d24;--os:#fff5df;--i:#13283c;--m:#607487;--l:#d4e0e8}*{box-sizing:border-box}html,body{height:100%}body{margin:0;background:#dfe8ee;color:var(--i);font-family:Inter,system-ui,Arial;overflow:hidden}button{font:inherit}.deck{height:100%;display:grid;grid-template-rows:auto 1fr auto;background:#fbfcfe}.top{display:grid;grid-template-columns:auto 1fr auto;gap:16px;align-items:center;padding:10px 20px;background:#fff;border-bottom:1px solid var(--l)}.brand{font-weight:950;color:var(--n)}.brand span{color:var(--g)}.bar{height:8px;background:#e4ebef;border-radius:99px;overflow:hidden}.bar div{height:100%;background:linear-gradient(90deg,var(--b),var(--g))}.count{font-size:13px;font-weight:900;color:var(--m)}.stage{position:relative;overflow:hidden;background:radial-gradient(circle at 5% 5%,#e3f4e9 0 8%,transparent 26%),radial-gradient(circle at 95% 95%,#e3effc 0 10%,transparent 27%),#fbfcfe}.slide{display:none;position:absolute;inset:0;overflow:auto;padding:clamp(20px,2.6vw,40px) clamp(24px,4.5vw,72px) 28px}.slide.on{display:block}.in{max-width:1300px;min-height:100%;margin:auto;display:flex;flex-direction:column;justify-content:center}.eye{font-size:14px;letter-spacing:.12em;text-transform:uppercase;font-weight:950;color:var(--g);margin-bottom:8px}h1,h2,h3,p{margin-top:0}h1{font-size:clamp(44px,5.5vw,76px);line-height:1.02;color:var(--n);margin-bottom:15px}h2{font-size:clamp(36px,4vw,58px);line-height:1.06;color:var(--n);margin-bottom:8px}h3{font-size:clamp(23px,2.1vw,31px);color:var(--n);margin-bottom:10px}.subrow{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:18px}.sub{font-size:clamp(25px,2.4vw,34px);font-weight:900;color:var(--g);text-transform:uppercase;line-height:1.12}.key{display:inline-flex;align-items:center;gap:7px;color:#965900;font-size:13px;font-weight:950;text-transform:uppercase}.cat{width:32px;height:26px;fill:var(--o)}.lead{font-size:clamp(23px,2vw,30px);line-height:1.5}.meta{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px}.pill{padding:9px 14px;border:1px solid #bacbd7;border-radius:10px;background:#fff;font-weight:850}.cover{display:grid;grid-template-columns:1.35fr .65fr;gap:32px;align-items:center}.art,.visual{padding:24px;border-radius:22px;background:linear-gradient(145deg,var(--n),#16599c);color:#fff}.art{min-height:350px;display:flex;flex-direction:column;justify-content:center}.art h3,.visual h3{color:#fff}.market-icons{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}.mi{padding:18px 12px;border:1px solid #ffffff40;border-radius:13px;background:#ffffff12;text-align:center;font-size:20px;font-weight:850}.grid2{display:grid;grid-template-columns:minmax(0,2.4fr) minmax(240px,.6fr);gap:20px;align-items:start}.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:13px}.card{background:#fff;border:1px solid var(--l);border-radius:17px;padding:20px}.blue{background:var(--bs);border-color:#abd3f0}.green{background:var(--gs);border-color:#acd9b9}.gray{background:#f1f4f6}.big{font-size:clamp(22px,1.85vw,28px);line-height:1.5}.compact{font-size:clamp(19px,1.45vw,23px);line-height:1.45}.guide{border-left:6px solid var(--b);padding:17px 19px;background:var(--bs);border-radius:0 14px 14px 0;font-size:clamp(21px,1.75vw,26px);font-weight:800}.tag{display:inline-flex;padding:6px 10px;border-radius:8px;font-size:13px;font-weight:950;text-transform:uppercase;margin-bottom:8px}.white{background:#edf1f3;border:1px solid #cbd5db}.az{background:#dcebfa;color:#0d5f9d}.ve{background:#dcf3e3;color:#1e7838}.checkline{display:grid;grid-template-columns:1fr auto;gap:10px;align-items:center;padding:11px 0;border-top:1px solid var(--l);font-size:clamp(19px,1.45vw,23px);font-weight:750}.blank{display:inline-block;min-width:125px;border-bottom:3px solid #8798a6;height:1.05em;vertical-align:bottom}.check{border:0;border-radius:9px;padding:9px 12px;background:var(--n);color:#fff;font-weight:850;cursor:pointer}.answer{display:none;grid-column:1/-1;padding:9px 12px;border-radius:9px;background:var(--gs);border:1px solid #7cbe90}.answer.show{display:block}.q{margin-top:13px;padding-top:13px;border-top:1px solid var(--l);font-size:clamp(21px,1.7vw,26px);font-weight:900}.choices{display:grid;gap:8px;margin-top:11px}.choice{padding:12px 14px;border:1px solid #cbd8e1;border-radius:11px;background:#fff;text-align:left;color:var(--i);font-size:clamp(19px,1.4vw,23px);cursor:pointer}.choice.ok{background:#e5f7ea;border-color:#51a96a}.choice.no{background:#fff0ec;border-color:#cf7867}.choice:disabled{color:inherit}.fb{display:none;margin-top:10px;padding:11px 13px;border-radius:10px;background:#e8f6ed;border:1px solid #7cbe90;font-size:19px}.fb.show{display:block}.fb.bad{background:#fff1ea;border-color:#d39482}.hint{padding:10px 12px;background:var(--os);border-left:4px solid var(--o);border-radius:0 9px 9px 0;font-size:19px}.compare{display:grid;grid-template-columns:1fr 1fr;gap:12px}.type{padding:18px;border-radius:14px;background:#fff;border:1px solid var(--l)}.type b{display:block;font-size:27px;color:var(--n);margin-bottom:7px}.type p{font-size:20px;line-height:1.4}.components{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}.component{padding:17px 10px;text-align:center;border-radius:13px;background:#fff;border:1px solid var(--l);font-size:19px}.component b{display:block;color:var(--n);font-size:23px}.reveal{border:0;border-radius:9px;padding:10px 14px;background:var(--g);color:#fff;font-weight:850;cursor:pointer}.model{display:none;margin-top:11px;padding:13px;border:2px solid #8bc39a;border-radius:12px;background:#fff;font-size:19px;line-height:1.45}.model.show{display:block}.bottom{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;padding:10px 18px;background:#fff;border-top:1px solid var(--l)}.nav{border:1px solid #b8c8d4;background:#fff;color:var(--n);border-radius:9px;padding:9px 14px;font-weight:900;cursor:pointer}.nav.next{background:var(--n);color:#fff}.nav:disabled{opacity:.35}.help{text-align:center;font-size:12px;color:var(--m)}@media(max-width:900px){body{overflow:auto}.deck{height:auto}.stage{min-height:calc(100vh - 118px)}.slide{position:relative;min-height:calc(100vh - 118px)}.cover,.grid2{grid-template-columns:1fr}.components{grid-template-columns:1fr 1fr}.help{display:none}}@media(max-width:580px){.slide{padding:22px 15px}.top{grid-template-columns:1fr auto}.bar{grid-column:1/-1}.art{display:none}.grid3,.compare{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute">
+<symbol id="cat" viewBox="0 0 64 48">
+<path d="M12 21 8 5l15 10c6-2 12-2 18 0L56 5l-4 17c3 4 4 8 3 13-2 9-12 13-23 13S11 44 9 35c-1-5 0-10 3-14Zm12 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm-8 10c4 0 7-2 8-5H24c1 3 4 5 8 5Z"/>
+</symbol>
+</svg>
+<main class="deck">
+<header class="top">
+<div class="brand">HISTORIA <span>·</span> 1° MEDIO</div>
+<div class="bar">
+<div id="bar">
+</div>
+</div>
+<div class="count" id="count">
+</div>
+</header>
+<section class="stage">
+<article class="slide on">
+<div class="in cover">
+<div>
+<div class="eye">Unidad 4 · El sistema económico</div>
+<h1>Clase 6: ¿Qué es el mercado?</h1>
+<div class="subrow">
+<div class="sub">Intercambio entre compradores y vendedores</div>
+</div>
+<p class="lead">
+<strong>Profesor Cristóbal Quezada</strong>
+</p>
+<div class="meta">
+<span class="pill">1° Medio</span>
+<span class="pill">Páginas 260–263</span>
+<span class="pill">OA 20</span>
+</div>
+</div>
+<div class="art">
+<h3>Un mercado puede existir en distintos espacios</h3>
+<div class="market-icons">
+<div class="mi">Feria</div>
+<div class="mi">Tienda</div>
+<div class="mi">Aplicación</div>
+<div class="mi">Sitio web</div>
+</div>
+</div>
+</div>
+</article>
+<article class="slide">
+<div class="in">
+<div class="eye">¿Qué aprenderemos hoy?</div>
+<h2>Reconocer los componentes del mercado</h2>
+<div class="grid2">
+<div class="card">
+<h3>Objetivo</h3>
+<p class="big">
+<strong>Reconocer</strong> los componentes del mercado mediante la clasificación oral de intercambios cotidianos, mostrando disposición a comprender su funcionamiento.</p>
+</div>
+<div>
+<div class="guide">
+<strong>Pregunta guía</strong>
+<br>¿Qué elementos permiten que exista un mercado?</div>
+<div class="meta">
+<span class="pill">Texto del Estudiante</span>
+<span class="pill">Páginas 260–263</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="slide">
+<div class="in">
+<div class="eye">Activemos ideas previas</div>
+<h2>¿Qué recordamos del problema económico?</h2>
+<div class="grid2">
+<div class="card gray">
+<span class="tag white">Blanco · Identificar</span>
+<h3>Completa oralmente</h3>
+<div class="checkline">
+<span>Los recursos disponibles son <span class="blank">
+</span>.</span>
+<button class="check">Chequear</button>
+<div class="answer">Correcto: limitados.</div>
+</div>
+<div class="checkline">
+<span>Las personas deben elegir entre distintas <span class="blank">
+</span>.</span>
+<button class="check">Chequear</button>
+<div class="answer">Correcto: alternativas.</div>
+</div>
+<div class="checkline">
+<span>Familias, empresas y Estado son agentes <span class="blank">
+</span>.</span>
+<button class="check">Chequear</button>
+<div class="answer">Correcto: económicos.</div>
+</div>
+</div>
+<div class="card blue">
+<span class="tag az">Azul · Relacionar</span>
+<h3>Conectemos</h3>
+<p class="q">¿Por qué los agentes económicos necesitan relacionarse?</p>
+<div class="hint">
+<strong>Apoyo:</strong> compara lo que una persona necesita con aquello que otros agentes pueden ofrecer.</div>
+<div class="choices quiz" data-a="1" data-f="Los intercambios permiten obtener bienes y servicios ofrecidos por otros agentes.">
+<button class="choice">Porque cada agente produce todos sus bienes necesarios directamente.</button>
+<button class="choice">Porque distintos agentes intercambian bienes y servicios necesarios diariamente.</button>
+<button class="choice">Porque ningún agente necesita productos elaborados por personas distintas.</button>
+</div>
+<div class="fb">
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="slide">
+<div class="in">
+<div class="eye">Contenido 1</div>
+<h2>¿Qué entendemos por mercado?</h2>
+<div class="subrow">
+<div class="sub">Es el espacio donde se realizan intercambios</div>
+<span class="key">
+<svg class="cat">
+<use href="#cat"/>
+</svg>Idea clave</span>
+</div>
+<div class="grid2">
+<div class="big">
+<p>El <strong>mercado</strong> es el espacio físico o virtual donde compradores y vendedores se relacionan para intercambiar bienes y servicios mediante un pago.</p>
+<p>Surge porque las personas no producen todo lo que necesitan. Los agentes económicos ofrecen productos, buscan satisfacer necesidades y acuerdan intercambios.</p>
+<p class="q">
+<span class="tag white">Blanco · Identificar</span>
+<br>¿Cuál situación corresponde a un mercado?</p>
+<div class="choices quiz" data-a="2" data-f="Existe mercado cuando compradores y vendedores intercambian bienes o servicios.">
+<button class="choice">Una estudiante ordena silenciosamente sus materiales dentro del dormitorio.</button>
+<button class="choice">Una familia conversa tranquilamente sobre sus planes del domingo.</button>
+<button class="choice">Una persona compra alimentos ofrecidos por vendedores en línea.</button>
+</div>
+<div class="fb">
+</div>
+</div>
+<div class="visual">
+<h3>Contextos de intercambio</h3>
+<div class="market-icons">
+<div class="mi">Barrio</div>
+<div class="mi">Ciudad</div>
+<div class="mi">Internet</div>
+<div class="mi">Mundo</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="slide">
+<div class="in">
+<div class="eye">Contenido 2</div>
+<h2>¿El mercado necesita un lugar físico?</h2>
+<div class="subrow">
+<div class="sub">Puede funcionar presencialmente o a distancia</div>
+<span class="key">
+<svg class="cat">
+<use href="#cat"/>
+</svg>Idea clave</span>
+</div>
+<div class="compare">
+<div class="type">
+<b>Mercado presencial</b>
+<p>Compradores y vendedores coinciden en un espacio físico, como una feria, tienda o centro comercial.</p>
+</div>
+<div class="type">
+<b>Mercado virtual</b>
+<p>El intercambio se realiza mediante plataformas, aplicaciones o sitios web, sin coincidir físicamente.</p>
+</div>
+</div>
+<p class="q">
+<span class="tag az">Azul · Relacionar</span>
+<br>¿Qué característica comparten ambos tipos de mercado?</p>
+<div class="hint">
+<strong>Apoyo:</strong> no observes el lugar; identifica la acción económica realizada.</div>
+<div class="choices quiz" data-a="0" data-f="En ambos existen oferentes, demandantes y un intercambio de bienes o servicios.">
+<button class="choice">Relacionan compradores y vendedores intercambiando bienes o servicios.</button>
+<button class="choice">Requieren compradores y vendedores reunidos siempre físicamente dentro.</button>
+<button class="choice">Eliminan compradores y vendedores mediante operaciones completamente automáticas.</button>
+</div>
+<div class="fb">
+</div>
+</div>
+</article>
+<article class="slide">
+<div class="in">
+<div class="eye">Contenido 3</div>
+<h2>¿Qué elementos permiten el intercambio?</h2>
+<div class="subrow">
+<div class="sub">Participantes, productos y precios</div>
+<span class="key">
+<svg class="cat">
+<use href="#cat"/>
+</svg>Idea clave</span>
+</div>
+<div class="components">
+<div class="component">
+<b>Compradores</b>Buscan adquirir o consumir.</div>
+<div class="component">
+<b>Vendedores</b>Ofrecen bienes o servicios.</div>
+<div class="component">
+<b>Producto</b>Bien o servicio intercambiado.</div>
+<div class="component">
+<b>Precio</b>Cantidad acordada para pagar.</div>
+</div>
+<div class="card blue" style="margin-top:15px">
+<p class="q" style="margin-top:0;border:0;padding:0">
+<span class="tag az">Azul · Relacionar</span>
+<br>Si una familia compra pan en una panadería, ¿cómo se clasifican los elementos?</p>
+<div class="choices quiz" data-a="1" data-f="La familia demanda, la panadería ofrece, el pan es el bien y su valor es el precio.">
+<button class="choice">Familia vendedora · panadería compradora · dinero producto · pan precio.</button>
+<button class="choice">Familia compradora · panadería vendedora · pan producto · dinero precio.</button>
+<button class="choice">Familia producto · panadería precio · pan compradora · dinero vendedor.</button>
+</div>
+<div class="fb">
+</div>
+</div>
+</div>
+</article>
+<article class="slide">
+<div class="in">
+<div class="eye">Contenido 4</div>
+<h2>¿Cómo participamos cotidianamente?</h2>
+<div class="subrow">
+<div class="sub">Compramos, vendemos, trabajamos y pagamos</div>
+<span class="key">
+<svg class="cat">
+<use href="#cat"/>
+</svg>Idea clave</span>
+</div>
+<div class="grid2">
+<div class="big">
+<p>Las familias participan principalmente como consumidoras cuando compran alimentos, transporte, educación u otros servicios. También participan cuando ofrecen su trabajo a empresas o instituciones.</p>
+<p>Las empresas producen y venden, mientras el Estado compra, contrata, cobra impuestos y entrega servicios. Un mismo agente puede cumplir funciones diferentes.</p>
+<p class="q">
+<span class="tag ve">Verde · Argumentar oralmente</span>
+<br>¿Por qué una familia puede participar de más de una manera?</p>
+<div class="hint">
+<strong>Apoyo:</strong> menciona una acción de consumo y otra relacionada con el trabajo o la producción.</div>
+</div>
+<div class="card green">
+<h3>Elige la explicación más completa</h3>
+<div class="choices quiz" data-a="2" data-f="Una familia puede consumir y también ofrecer trabajo o producir bienes y servicios.">
+<button class="choice">Porque las familias solamente compran productos ofrecidos por empresas privadas.</button>
+<button class="choice">Porque las familias solamente trabajan dentro de instituciones estatales públicas.</button>
+<button class="choice">Porque las familias consumen productos y también ofrecen trabajo diariamente.</button>
+</div>
+<div class="fb">
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="slide">
+<div class="in">
+<div class="eye">Conexión con el presente</div>
+<h2>¿Qué cambió con los mercados digitales?</h2>
+<div class="subrow">
+<div class="sub">El intercambio puede ocurrir sin compartir un lugar</div>
+<span class="key">
+<svg class="cat">
+<use href="#cat"/>
+</svg>Idea clave</span>
+</div>
+<div class="grid2">
+<div class="big">
+<p>Las plataformas digitales permiten comparar productos, comprar a distancia y recibir bienes en el hogar. También conectan vendedores y compradores de lugares diferentes.</p>
+<p>Sin embargo, el intercambio continúa necesitando oferentes, demandantes, productos, precios y medios de pago.</p>
+<p class="q">
+<span class="tag az">Azul · Relacionar</span>
+<br>¿Qué cambió y qué permaneció?</p>
+</div>
+<div class="card blue compact">
+<h3>Selecciona la relación correcta</h3>
+<div class="choices quiz" data-a="0" data-f="Cambió el espacio del intercambio, pero permanecieron sus componentes económicos fundamentales.">
+<button class="choice">Cambió el espacio utilizado; permanecieron compradores, vendedores, productos y precios.</button>
+<button class="choice">Cambió la necesidad económica; desaparecieron compradores, vendedores, productos y precios.</button>
+<button class="choice">Cambió únicamente el precio; desaparecieron intercambios, plataformas, productos y compradores.</button>
+</div>
+<div class="fb">
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="slide">
+<div class="in">
+<div class="eye">Entonces...</div>
+<h2>¿Qué elementos permiten que exista un mercado?</h2>
+<div class="grid3">
+<div class="card gray">
+<span class="tag white">Blanco · Identificar</span>
+<h3>Completa oralmente</h3>
+<div class="checkline">
+<span>El mercado puede ser físico o <span class="blank">
+</span>.</span>
+<button class="check">Chequear</button>
+<div class="answer">Correcto: virtual.</div>
+</div>
+<div class="checkline">
+<span>Quien ofrece productos es el <span class="blank">
+</span>.</span>
+<button class="check">Chequear</button>
+<div class="answer">Correcto: vendedor u oferente.</div>
+</div>
+<div class="checkline">
+<span>Quien busca comprarlos es el <span class="blank">
+</span>.</span>
+<button class="check">Chequear</button>
+<div class="answer">Correcto: comprador o demandante.</div>
+</div>
+</div>
+<div class="card blue">
+<span class="tag az">Azul · Relacionar</span>
+<h3>Pregunta guía</h3>
+<p class="compact">
+<strong>¿Qué elementos permiten que exista un mercado?</strong>
+</p>
+<div class="choices quiz" data-a="1" data-f="El mercado requiere participantes, algo que intercambiar y un precio.">
+<button class="choice">Solamente requiere edificios grandes y productos almacenados durante años completos.</button>
+<button class="choice">Requiere compradores, vendedores, bienes o servicios, precios e intercambio económico.</button>
+<button class="choice">Solamente requiere compradores reunidos sin productos, vendedores ni precios establecidos.</button>
+</div>
+<div class="fb">
+</div>
+</div>
+<div class="card green">
+<span class="tag ve">Verde · Argumentar</span>
+<h3>Desafío oral</h3>
+<p class="compact">¿Puede existir un mercado sin un lugar físico? Fundamenta con un ejemplo.</p>
+<div class="hint">
+<strong>Apoyo:</strong> postura, ejemplo y explicación del intercambio.</div>
+<button class="reveal">Comparar con respuesta modelo</button>
+<div class="model">
+<strong>Respuesta modelo:</strong> Sí. Un mercado puede funcionar virtualmente, como una aplicación de compras, porque igualmente conecta compradores y vendedores que intercambian productos mediante un precio y un medio de pago.</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+<footer class="bottom">
+<button class="nav" id="prev">← Anterior</button>
+<div class="help">Usa ← → para navegar · F para pantalla completa</div>
+<button class="nav next" id="next">Siguiente →</button>
+</footer>
+</main>
+<script>(()=>{const s=[...document.querySelectorAll('.slide')],p=document.getElementById('prev'),n=document.getElementById('next'),c=document.getElementById('count'),b=document.getElementById('bar');let i=0;function show(x){i=Math.max(0,Math.min(s.length-1,x));s.forEach((e,k)=>e.classList.toggle('on',k===i));c.textContent=`${i+1} / ${s.length}`;b.style.width=`${(i+1)/s.length*100}%`;p.disabled=i===0;n.textContent=i===s.length-1?'Volver al inicio ↺':'Siguiente →'}p.onclick=()=>show(i-1);n.onclick=()=>show(i===s.length-1?0:i+1);addEventListener('keydown',e=>{if(e.key==='ArrowRight'||e.key===' '){e.preventDefault();n.click()}if(e.key==='ArrowLeft')p.click();if(e.key.toLowerCase()==='f')document.fullscreenElement?document.exitFullscreen():document.documentElement.requestFullscreen?.()});document.querySelectorAll('.quiz').forEach((q,k)=>{const bs=[...q.querySelectorAll('.choice')],a=+q.dataset.a,fb=q.nextElementSibling;bs.forEach((x,j)=>x.onclick=()=>{bs.forEach((y,z)=>{y.disabled=true;if(z===a)y.classList.add('ok');else if(z===j)y.classList.add('no')});const ok=j===a;fb.className='fb show'+(ok?'':' bad');fb.textContent=(ok?'Correcto. ':'Revisemos. ')+q.dataset.f})});document.querySelectorAll('.check').forEach(x=>x.onclick=()=>{x.nextElementSibling.classList.add('show');x.disabled=true});document.querySelectorAll('.reveal').forEach(x=>x.onclick=()=>{x.nextElementSibling.classList.add('show');x.disabled=true});show(0)})();</script>
+</body>
+</html>

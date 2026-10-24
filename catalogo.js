@@ -22,6 +22,67 @@ window.CATALOGO_MATERIALES = [
     color: "#496d7b",
     symbol: "▤",
     url: "materiales/escolar/2m/historia/u4/03-U4-2M-HIS.html"
+  },
+
+  {
+    id: 2,
+    title: "Clase 5: Del cigoto al desarrollo",
+    section: "school",
+    level: "7º Básico",
+    subject: "Biología",
+    unit: "Unidad 4",
+    type: "Presentación",
+    description: "Secuencia posterior a la fecundación y funciones de las estructuras que apoyan el desarrollo embrionario y fetal. Texto del Estudiante, páginas 124–127.",
+    tags: [
+      "Reproducción humana",
+      "Fecundación",
+      "Desarrollo embrionario",
+      "Placenta"
+    ],
+    color: "#547b6a",
+    symbol: "▤",
+    url: "materiales/escolar/7b/biologia/u4/U4-05-7B-BIO.html"
+  },
+
+  {
+    id: 3,
+    title: "Clase 5: ¿Qué significa desarrollo?",
+    section: "school",
+    level: "8º Básico",
+    subject: "Historia",
+    unit: "Unidad 4",
+    type: "Presentación",
+    description: "Comparación del desarrollo económico, humano y sustentable a partir de situaciones regionales. Texto del Estudiante, páginas 226–230.",
+    tags: [
+      "Desarrollo económico",
+      "Desarrollo humano",
+      "Sustentabilidad",
+      "Regiones de Chile"
+    ],
+    color: "#496d7b",
+    symbol: "▤",
+    url: "materiales/escolar/8b/historia/u4/U4-05-8B-HIS.html"
+  },
+
+  {
+    id: 4,
+    title: "Clase 6: Mayas y aztecas: sociedad y comercio",
+    section: "school",
+    level: "7º Básico",
+    subject: "Historia",
+    unit: "Unidad 4",
+    type: "Presentación",
+    description: "Comparación de la organización social, política y económica de las civilizaciones maya y azteca. Texto del Estudiante, páginas 232–246.",
+    tags: [
+      "Civilizaciones americanas",
+      "Mayas",
+      "Aztecas",
+      "Organización social",
+      "Comercio"
+    ],
+    color: "#765575",
+    symbol: "▤",
+    url: "materiales/escolar/7b/historia/u4/U4-06-7B-HIS.html"
   }
 
 ];

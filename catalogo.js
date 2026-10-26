@@ -269,7 +269,31 @@ window.CATALOGO_MATERIALES = [
     color: "#496d7b",
     symbol: "◇",
     url: "materiales/escolar/2m/historia/u4/U4-07-2M-HIS.html"
-  }
+  },
+  
+{
+  id: 14,
+  title: "Síntesis de estudio: Dictadura, transición y democracia",
+  section: "school",
+  level: "2º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Síntesis de estudio",
+  description: "Biblioteca interactiva para estudiar la Unidad 4: síntesis por ejes, mapas conceptuales, línea de tiempo, flashcards, comprensión lectora y ejercicios de escritura. Texto del Estudiante, páginas 238–314.",
+  tags: [
+    "Síntesis de unidad",
+    "Mapas de estudio",
+    "Dictadura",
+    "Transición democrática",
+    "Democracia",
+    "Flashcards",
+    "Comprensión lectora"
+  ],
+  color: "#587a70",
+  symbol: "✦",
+  url: "materiales/escolar/2m/historia/u4/U4-SINTESIS-2M-HIS.html"
+}
+
 
 ];
 // ORDEN AUTOMÁTICO DE LOS MATERIALES

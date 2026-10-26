@@ -227,7 +227,50 @@ window.CATALOGO_MATERIALES = [
   color: "#765575",
   symbol: "▤",
   url: "materiales/escolar/3m/filosofia/u4/U4-05-3M-FIL.html"
-}
+},
+  
+  {
+    id: 12,
+    title: "Clase 6: ¿Cómo se recuperó la democracia?",
+    section: "school",
+    level: "2º Medio",
+    subject: "Historia",
+    unit: "Unidad 4",
+    type: "Presentación",
+    description: "Factores económicos, sociales y políticos que favorecieron la recuperación de la democracia en Chile durante la década de 1980. Texto del Estudiante, páginas 262–269.",
+    tags: [
+      "Dictadura",
+      "Recuperación de la democracia",
+      "Crisis de 1982",
+      "Movilización social",
+      "Oposición política"
+    ],
+    color: "#496d7b",
+    symbol: "◈",
+    url: "materiales/escolar/2m/historia/u4/U4-06-2M-HIS.html"
+  },
+
+  {
+    id: 13,
+    title: "Clase 7: ¿Cómo comenzó la transición democrática?",
+    section: "school",
+    level: "2º Medio",
+    subject: "Historia",
+    unit: "Unidad 4",
+    type: "Presentación",
+    description: "El plebiscito de 1988, las elecciones de 1989 y el inicio de la transición democrática en Chile, considerando avances, acuerdos y continuidades. Texto del Estudiante, páginas 270–279.",
+    tags: [
+      "Transición democrática",
+      "Plebiscito de 1988",
+      "Elecciones de 1989",
+      "Participación ciudadana",
+      "Democracia en Chile"
+    ],
+    color: "#496d7b",
+    symbol: "◇",
+    url: "materiales/escolar/2m/historia/u4/U4-07-2M-HIS.html"
+  }
+
 ];
 // ORDEN AUTOMÁTICO DE LOS MATERIALES
 

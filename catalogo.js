@@ -144,6 +144,89 @@ window.CATALOGO_MATERIALES = [
   color: "#496d7b",
   symbol: "▤",
   url: "materiales/escolar/1m/historia/u4/U4-07-1M-HIS.html"
+},
+  {
+  id: 8,
+  title: "Clase 6: ¿Por qué el desarrollo es desigual?",
+  section: "school",
+  level: "8º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Desigualdades territoriales y diferencias en el acceso a oportunidades y servicios entre las regiones de Chile. Texto del Estudiante, páginas 236–245.",
+  tags: [
+    "Regiones de Chile",
+    "Desarrollo",
+    "Desigualdad territorial",
+    "Calidad de vida",
+    "Sustentabilidad"
+  ],
+  color: "#496d7b",
+  symbol: "▤",
+  url: "materiales/escolar/8b/historia/u4/U4-06-8B-HIS.html"
+},
+
+{
+  id: 9,
+  title: "Clase 7: ¿Cómo se organizaba el Imperio inca?",
+  section: "school",
+  level: "7º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Organización política y económica del Imperio inca, considerando las autoridades, el trabajo comunitario y las redes de comunicación que permitieron administrar su territorio.",
+  tags: [
+    "Civilizaciones americanas",
+    "Incas",
+    "Imperio inca",
+    "Organización política",
+    "Trabajo comunitario"
+  ],
+  color: "#765575",
+  symbol: "▤",
+  url: "materiales/escolar/7b/historia/u4/U4-07-7B-HIS.html"
+},
+
+{
+  id: 10,
+  title: "Clase 6: Desarrollo, desigualdad y comercio justo",
+  section: "school",
+  level: "3º Medio",
+  subject: "Educación Ciudadana",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Desafíos de las políticas económicas frente a la pobreza, la desigualdad y el desarrollo sostenible. Análisis de casos sobre salarios y comercio justo. Texto del Estudiante, páginas 112–118.",
+  tags: [
+    "Estado y mercado",
+    "Desarrollo sostenible",
+    "Desigualdad",
+    "Políticas económicas",
+    "Comercio justo"
+  ],
+  color: "#547b6a",
+  symbol: "▤",
+  url: "materiales/escolar/3m/educacion-ciudadana/u4/U4-06-3M-EDC.html"
+},
+
+{
+  id: 11,
+  title: "Clase 5: Circunstancia, inteligencia artificial y realidad",
+  section: "school",
+  level: "3º Medio",
+  subject: "Filosofía",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Influencia de las circunstancias y las nuevas tecnologías en nuestra comprensión de la realidad. Análisis filosófico de casos sobre inteligencia artificial. Texto del Estudiante, páginas 100–104.",
+  tags: [
+    "Filosofía",
+    "Inteligencia artificial",
+    "Realidad",
+    "Circunstancia",
+    "Pensamiento crítico"
+  ],
+  color: "#765575",
+  symbol: "▤",
+  url: "materiales/escolar/3m/filosofia/u4/U4-05-3M-FIL.html"
 }
 ];
 // ORDEN AUTOMÁTICO DE LOS MATERIALES

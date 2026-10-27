@@ -292,6 +292,28 @@ window.CATALOGO_MATERIALES = [
   color: "#587a70",
   symbol: "✦",
   url: "materiales/escolar/2m/historia/u4/U4-SINTESIS-2M-HIS.html"
+},
+  {
+  id: 15,
+  title: "Guía 24: Funcionamiento del mercado",
+  section: "paes",
+  axis: "Sistema Económico",
+  level: "Preparación PAES",
+  subject: "Historia y Ciencias Sociales",
+  unit: "Guía 24",
+  type: "Clase",
+  description: "Funcionamiento del mercado: escasez, oferta, demanda, formación de precios, competencia, inflación y regulación económica.",
+  tags: [
+    "PAES",
+    "Sistema Económico",
+    "Mercado",
+    "Oferta y demanda",
+    "Competencia",
+    "Inflación"
+  ],
+  color: "#735d91",
+  symbol: "◈",
+  url: "materiales/preu/sistema-economico/HISM24.html"
 }
 
 

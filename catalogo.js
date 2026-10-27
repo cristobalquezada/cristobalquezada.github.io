@@ -314,7 +314,81 @@ window.CATALOGO_MATERIALES = [
   color: "#735d91",
   symbol: "◈",
   url: "materiales/preu/sistema-economico/HISM24.html"
+},
+  
+{
+  id: 16,
+  title: "Guía 25: Estado y mercado",
+  section: "paes",
+  axis: "Sistema Económico",
+  level: "Preparación PAES",
+  subject: "Historia y Ciencias Sociales",
+  unit: "Guía 25",
+  type: "Clase",
+  description: "Relaciones entre Estado y mercado: sistemas económicos, regulación, competencia, instituciones públicas, impuestos, presupuesto y gasto público.",
+  tags: [
+    "PAES",
+    "Sistema Económico",
+    "Estado y mercado",
+    "Economía mixta",
+    "Regulación económica",
+    "Impuestos",
+    "Presupuesto público"
+  ],
+  color: "#735d91",
+  symbol: "◈",
+  url: "materiales/preu/sistema-economico/HISM25.html"
+},
+
+{
+  id: 17,
+  title: "Guía 26: Desarrollo y medioambiente",
+  section: "paes",
+  axis: "Sistema Económico",
+  level: "Preparación PAES",
+  subject: "Historia y Ciencias Sociales",
+  unit: "Guía 26",
+  type: "Clase",
+  description: "Modelos de desarrollo, crecimiento económico, desarrollo sostenible, justicia ambiental, cambio climático y políticas de protección del medioambiente.",
+  tags: [
+    "PAES",
+    "Sistema Económico",
+    "Modelos de desarrollo",
+    "Desarrollo sostenible",
+    "Cambio climático",
+    "Justicia ambiental",
+    "Políticas ambientales"
+  ],
+  color: "#735d91",
+  symbol: "◈",
+  url: "materiales/preu/sistema-economico/HISM26.html"
+},
+
+{
+  id: 18,
+  title: "Guía 27: Derechos laborales",
+  section: "paes",
+  axis: "Sistema Económico",
+  level: "Preparación PAES",
+  subject: "Historia y Ciencias Sociales",
+  unit: "Guía 27",
+  type: "Clase",
+  description: "Derechos laborales y trabajo digno: legislación laboral, sindicatos, negociación colectiva, protección de los trabajadores y desafíos del trabajo contemporáneo.",
+  tags: [
+    "PAES",
+    "Sistema Económico",
+    "Derechos laborales",
+    "Trabajo digno",
+    "Sindicatos",
+    "Negociación colectiva",
+    "Legislación laboral",
+    "Trabajo contemporáneo"
+  ],
+  color: "#735d91",
+  symbol: "◈",
+  url: "materiales/preu/sistema-economico/HISM27.html"
 }
+
 
 
 ];

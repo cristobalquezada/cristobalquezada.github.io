@@ -387,7 +387,104 @@ window.CATALOGO_MATERIALES = [
   color: "#735d91",
   symbol: "◈",
   url: "materiales/preu/sistema-economico/HISM27.html"
+},
+  
+{
+  id: 19,
+  title: "Guía 20: Estado, democracia y ciudadanía",
+  section: "paes",
+  axis: "Formación Ciudadana",
+  level: "Preparación PAES",
+  subject: "Historia y Ciencias Sociales",
+  unit: "Guía 20",
+  type: "Clase",
+  description: "Estado, democracia y ciudadanía: Estado de derecho, igualdad ante la ley, participación política, derecho a voto y protección de la democracia.",
+  tags: [
+    "PAES",
+    "Formación Ciudadana",
+    "Estado",
+    "Democracia",
+    "Ciudadanía",
+    "Estado de derecho",
+    "Participación política"
+  ],
+  color: "#547b83",
+  symbol: "◈",
+  url: "materiales/preu/formacion-ciudadana/HISM20.html"
+},
+
+{
+  id: 20,
+  title: "Guía 21: Institucionalidad democrática en Chile",
+  section: "paes",
+  axis: "Formación Ciudadana",
+  level: "Preparación PAES",
+  subject: "Historia y Ciencias Sociales",
+  unit: "Guía 21",
+  type: "Clase",
+  description: "Instituciones democráticas de Chile: formación de leyes, sistema electoral, partidos políticos, sociedad civil, probidad pública y mecanismos de representación.",
+  tags: [
+    "PAES",
+    "Formación Ciudadana",
+    "Institucionalidad democrática",
+    "Sistema electoral",
+    "Poder Legislativo",
+    "Partidos políticos",
+    "Probidad pública"
+  ],
+  color: "#547b83",
+  symbol: "◈",
+  url: "materiales/preu/formacion-ciudadana/HISM21.html"
+},
+
+{
+  id: 21,
+  title: "Guía 22: Democracia y sociedad de la información",
+  section: "paes",
+  axis: "Formación Ciudadana",
+  level: "Preparación PAES",
+  subject: "Historia y Ciencias Sociales",
+  unit: "Guía 22",
+  type: "Clase",
+  description: "Información y democracia: medios de comunicación, opinión pública, pluralismo, desinformación, posverdad, brecha digital y protección de datos personales.",
+  tags: [
+    "PAES",
+    "Formación Ciudadana",
+    "Medios de comunicación",
+    "Opinión pública",
+    "Desinformación",
+    "Posverdad",
+    "Ciudadanía digital"
+  ],
+  color: "#547b83",
+  symbol: "◈",
+  url: "materiales/preu/formacion-ciudadana/HISM22.html"
+},
+
+{
+  id: 22,
+  title: "Guía 23: Acceso a la justicia y derechos en Chile",
+  section: "paes",
+  axis: "Formación Ciudadana",
+  level: "Preparación PAES",
+  subject: "Historia y Ciencias Sociales",
+  unit: "Guía 23",
+  type: "Clase",
+  description: "Sistema judicial chileno: acceso a la justicia, debido proceso, presunción de inocencia, organización de tribunales y mecanismos de protección de derechos.",
+  tags: [
+    "PAES",
+    "Formación Ciudadana",
+    "Poder Judicial",
+    "Acceso a la justicia",
+    "Debido proceso",
+    "Derechos fundamentales",
+    "Protección de derechos"
+  ],
+  color: "#547b83",
+  symbol: "◈",
+  url: "materiales/preu/formacion-ciudadana/HISM23.html"
 }
+
 
 
 

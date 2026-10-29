@@ -528,7 +528,31 @@ window.CATALOGO_MATERIALES = [
   color: "#547b6a",
   symbol: "▤",
   url: "materiales/escolar/7b/biologia/u4/U4-06-7B-BIO.html"
-}
+},
+  
+{
+  id: 25,
+  title: "Clase 9: Competencia y concentración económica",
+  section: "school",
+  level: "1º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Comparación de la competencia perfecta e imperfecta, los monopolios y oligopolios, y sus efectos sobre los precios, los consumidores y la libre competencia. Texto del Estudiante, páginas 270–273.",
+  tags: [
+    "Economía",
+    "Mercado",
+    "Competencia perfecta",
+    "Competencia imperfecta",
+    "Monopolio",
+    "Oligopolio",
+    "Libre competencia"
+  ],
+  color: "#496d7b",
+  symbol: "▤",
+  url: "materiales/escolar/1m/historia/u4/U4-09-1M-HIS.html"
+},
+
 
 
 

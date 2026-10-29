@@ -506,7 +506,30 @@ window.CATALOGO_MATERIALES = [
   color: "#765575",
   symbol: "▤",
   url: "materiales/escolar/7b/historia/u4/U4-08-7B-HIS.html"
+},
+  
+{
+  id: 24,
+  title: "Clase 6: ¿Cómo prevenimos un embarazo?",
+  section: "school",
+  level: "7º Básico",
+  subject: "Biología",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Planificación reproductiva y métodos anticonceptivos: métodos naturales, de barrera, hormonales y quirúrgicos. Comparación de mecanismos de acción, autocuidado y responsabilidad compartida. Texto del Estudiante, páginas 126–137.",
+  tags: [
+    "Reproducción humana",
+    "Métodos anticonceptivos",
+    "Planificación reproductiva",
+    "Prevención del embarazo",
+    "Autocuidado",
+    "Responsabilidad compartida"
+  ],
+  color: "#547b6a",
+  symbol: "▤",
+  url: "materiales/escolar/7b/biologia/u4/U4-06-7B-BIO.html"
 }
+
 
 
 

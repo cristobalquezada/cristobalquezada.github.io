@@ -483,7 +483,31 @@ window.CATALOGO_MATERIALES = [
   color: "#547b83",
   symbol: "◈",
   url: "materiales/preu/formacion-ciudadana/HISM23.html"
+},
+  
+{
+  id: 23,
+  title: "Clase 8: ¿Cómo entendían el mundo?",
+  section: "school",
+  level: "7º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Cosmovisión y creencias religiosas de mayas, aztecas e incas. Relaciones entre naturaleza, agricultura, tradiciones y autoridad política. Texto del Estudiante, páginas 270–273.",
+  tags: [
+    "Civilizaciones americanas",
+    "Mayas",
+    "Aztecas",
+    "Incas",
+    "Cosmovisión",
+    "Religión",
+    "Naturaleza"
+  ],
+  color: "#765575",
+  symbol: "▤",
+  url: "materiales/escolar/7b/historia/u4/U4-08-7B-HIS.html"
 }
+
 
 
 

@@ -553,6 +553,121 @@ window.CATALOGO_MATERIALES = [
   url: "materiales/escolar/1m/historia/u4/U4-09-1M-HIS.html"
 },
 
+{
+  id: 26,
+  title: "Clase 9: ¿Qué legados siguen presentes?",
+  section: "school",
+  level: "7º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Legados culturales de las civilizaciones maya, azteca e inca: lenguas, sistemas de registro, conocimientos agrícolas y expresiones artísticas. Continuidades y transformaciones de las culturas americanas en el presente. Texto del Estudiante, páginas 274–279.",
+  tags: [
+    "Civilizaciones americanas",
+    "Mayas",
+    "Aztecas",
+    "Incas",
+    "Legado cultural",
+    "Continuidad y cambio",
+    "Pueblos originarios"
+  ],
+  color: "#765575",
+  symbol: "▤",
+  url: "materiales/escolar/7b/historia/u4/U4-09-7B-HIS.html"
+},
+
+{
+  id: 27,
+  title: "Clase 7: ¿Cómo conectamos los territorios?",
+  section: "school",
+  level: "8º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Importancia de las redes de transporte y la conectividad digital para el acceso a servicios y oportunidades. Desigualdades territoriales, brecha digital y propuestas para mejorar la conectividad. Texto del Estudiante, páginas 236–239.",
+  tags: [
+    "Regiones de Chile",
+    "Conectividad",
+    "Transporte",
+    "Brecha digital",
+    "Desigualdad territorial",
+    "Acceso a servicios"
+  ],
+  color: "#496d7b",
+  symbol: "▤",
+  url: "materiales/escolar/8b/historia/u4/U4-07-8B-HIS.html"
+},
+
+{
+  id: 28,
+  title: "Clase 8: ¿Cómo cambian las necesidades regionales?",
+  section: "school",
+  level: "8º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Cambios demográficos y diferencias regionales en el acceso a servicios y oportunidades laborales. Análisis de necesidades de la población y desafíos para la planificación territorial. Texto del Estudiante, páginas 240–253.",
+  tags: [
+    "Regiones de Chile",
+    "Demografía",
+    "Población",
+    "Servicios públicos",
+    "Trabajo",
+    "Desarrollo regional",
+    "Desigualdad territorial"
+  ],
+  color: "#496d7b",
+  symbol: "▤",
+  url: "materiales/escolar/8b/historia/u4/U4-08-8B-HIS.html"
+},
+
+{
+  id: 29,
+  title: "Clase 10: Síntesis del sistema económico",
+  section: "school",
+  level: "1º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Síntesis de la Unidad 4: escasez, costo de oportunidad, agentes económicos, oferta y demanda, competencia, regulación del mercado, ahorro, crédito y consumo responsable. Texto del Estudiante, páginas 294–299.",
+  tags: [
+    "Síntesis de unidad",
+    "Economía",
+    "Escasez",
+    "Costo de oportunidad",
+    "Oferta y demanda",
+    "Mercado",
+    "Educación financiera",
+    "Preparación para la prueba"
+  ],
+  color: "#496d7b",
+  symbol: "✦",
+  url: "materiales/escolar/1m/historia/u4/U4-10-1M-HIS.html"
+},
+
+{
+  id: 30,
+  title: "Clase 12+13: Síntesis de dictadura, transición y democracia",
+  section: "school",
+  level: "2º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Síntesis de la Unidad 4: dictadura militar, violaciones a los derechos humanos, transformaciones económicas, recuperación de la democracia, transición política y desafíos del Chile actual. Texto del Estudiante, páginas 312–315.",
+  tags: [
+    "Síntesis de unidad",
+    "Dictadura militar",
+    "Derechos humanos",
+    "Transición democrática",
+    "Democracia en Chile",
+    "Chile actual",
+    "Preparación para la prueba"
+  ],
+  color: "#496d7b",
+  symbol: "✦",
+  url: "materiales/escolar/2m/historia/u4/U4-12+13-2M-HIS.html"
+}
+
 
 
 

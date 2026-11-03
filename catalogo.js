@@ -740,7 +740,34 @@ window.CATALOGO_MATERIALES = [
   color: "#547b6a",
   symbol: "✦",
   url: "materiales/escolar/7b/biologia/u4/U4-07-7B-BIO.html"
+},
+  
+{
+  id: 34,
+  title: "Clase 9: Síntesis de regiones, desarrollo y calidad de vida",
+  section: "school",
+  level: "8º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Síntesis de la Unidad 4: criterios de regionalización, regiones naturales y político-administrativas de Chile, desarrollo económico y humano, sustentabilidad, conectividad y desigualdades territoriales. Texto del Estudiante, páginas 210–245.",
+  tags: [
+    "Síntesis de unidad",
+    "Regiones de Chile",
+    "Regionalización",
+    "Zonas naturales",
+    "Desarrollo humano",
+    "Sustentabilidad",
+    "Conectividad",
+    "Desigualdad territorial",
+    "Calidad de vida",
+    "Preparación para la prueba"
+  ],
+  color: "#496d7b",
+  symbol: "✦",
+  url: "materiales/escolar/8b/historia/u4/U4-09-8B-HIS.html"
 }
+
 
 
 

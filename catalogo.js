@@ -666,7 +666,82 @@ window.CATALOGO_MATERIALES = [
   color: "#496d7b",
   symbol: "✦",
   url: "materiales/escolar/2m/historia/u4/U4-12+13-2M-HIS.html"
+},
+  
+{
+  id: 31,
+  title: "Clase 7: Síntesis de economía, Estado y desarrollo",
+  section: "school",
+  level: "3º Medio",
+  subject: "Educación Ciudadana",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Síntesis sobre escasez, agentes económicos, sistema económico mixto, funciones del Estado, políticas públicas, desigualdad y desarrollo sostenible. Texto del Estudiante, páginas 90–120.",
+  tags: [
+    "Síntesis de unidad",
+    "Economía",
+    "Escasez",
+    "Estado y mercado",
+    "Políticas públicas",
+    "Desigualdad",
+    "Desarrollo sostenible",
+    "Preparación para la prueba"
+  ],
+  color: "#547b6a",
+  symbol: "✦",
+  url: "materiales/escolar/3m/educacion-ciudadana/u4/U4-07-3M-EDC.html"
+},
+
+{
+  id: 32,
+  title: "Clase 6: Síntesis de verdad, diálogo y ciudadanía",
+  section: "school",
+  level: "3º Medio",
+  subject: "Filosofía",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Síntesis sobre verdad, lenguaje, posverdad, argumentación, relaciones entre saber y poder, diálogo filosófico y desacuerdo. Análisis crítico de la información y participación en el diálogo. Texto del Estudiante, páginas 82–104.",
+  tags: [
+    "Síntesis de unidad",
+    "Filosofía",
+    "Verdad",
+    "Posverdad",
+    "Argumentación",
+    "Saber y poder",
+    "Diálogo filosófico",
+    "Pensamiento crítico",
+    "Preparación para la prueba"
+  ],
+  color: "#765575",
+  symbol: "✦",
+  url: "materiales/escolar/3m/filosofia/u4/U4-06-3M-FIL.html"
+},
+
+{
+  id: 33,
+  title: "Clase 7: Síntesis de reproducción humana y autocuidado",
+  section: "school",
+  level: "7º Básico",
+  subject: "Biología",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Síntesis sobre ciclo menstrual, ovulación, fecundación, desarrollo embrionario, métodos anticonceptivos, autocuidado y responsabilidad compartida. Texto del Estudiante, páginas 116–137.",
+  tags: [
+    "Síntesis de unidad",
+    "Reproducción humana",
+    "Ciclo menstrual",
+    "Ovulación",
+    "Fecundación",
+    "Desarrollo embrionario",
+    "Métodos anticonceptivos",
+    "Autocuidado",
+    "Preparación para la prueba"
+  ],
+  color: "#547b6a",
+  symbol: "✦",
+  url: "materiales/escolar/7b/biologia/u4/U4-07-7B-BIO.html"
 }
+
 
 
 

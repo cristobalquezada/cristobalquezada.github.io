@@ -766,7 +766,35 @@ window.CATALOGO_MATERIALES = [
   color: "#496d7b",
   symbol: "✦",
   url: "materiales/escolar/8b/historia/u4/U4-09-8B-HIS.html"
+},
+  
+{
+  id: 35,
+  title: "Clase 10: Síntesis de las civilizaciones americanas",
+  section: "school",
+  level: "7º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Presentación",
+  description: "Síntesis comparativa de las civilizaciones maya, azteca e inca: ubicación territorial, tecnologías agrícolas, organización política y económica, redes de comunicación, cosmovisiones y legados culturales. Texto del Estudiante, páginas 226–279.",
+  tags: [
+    "Síntesis de unidad",
+    "Civilizaciones americanas",
+    "Mayas",
+    "Aztecas",
+    "Incas",
+    "Mesoamérica",
+    "Imperio inca",
+    "Organización política",
+    "Tecnologías agrícolas",
+    "Legado cultural",
+    "Preparación para la prueba"
+  ],
+  color: "#765575",
+  symbol: "✦",
+  url: "materiales/escolar/7b/historia/u4/U4-10-7B-HIS.html"
 }
+
 
 
 

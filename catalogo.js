@@ -793,7 +793,158 @@ window.CATALOGO_MATERIALES = [
   color: "#765575",
   symbol: "✦",
   url: "materiales/escolar/7b/historia/u4/U4-10-7B-HIS.html"
+},
+  
+{
+  id: 36,
+  title: "Síntesis de estudio: El sistema económico",
+  section: "school",
+  level: "1º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Síntesis de estudio",
+  description: "Biblioteca interactiva sobre el problema económico, la escasez, los agentes económicos, el funcionamiento del mercado y las decisiones financieras responsables. Texto del Estudiante, páginas 244–299.",
+  tags: [
+    "Síntesis de unidad",
+    "Mapas de estudio",
+    "Economía",
+    "Escasez",
+    "Agentes económicos",
+    "Mercado",
+    "Oferta y demanda",
+    "Educación financiera",
+    "Consumo responsable"
+  ],
+  color: "#587a70",
+  symbol: "✦",
+  url: "materiales/escolar/1m/historia/u4/U4-SINTESIS-1M-HIS.html"
+},
+
+{
+  id: 37,
+  title: "Síntesis de estudio: Economía, Estado y desarrollo",
+  section: "school",
+  level: "3º Medio",
+  subject: "Educación Ciudadana",
+  unit: "Unidad 4",
+  type: "Síntesis de estudio",
+  description: "Biblioteca interactiva sobre escasez, agentes económicos, sistemas económicos, funciones del Estado, políticas públicas, desigualdad y desarrollo sostenible.",
+  tags: [
+    "Síntesis de unidad",
+    "Mapas de estudio",
+    "Economía",
+    "Estado y mercado",
+    "Agentes económicos",
+    "Políticas públicas",
+    "Desigualdad",
+    "Desarrollo sostenible",
+    "Bien común"
+  ],
+  color: "#587a70",
+  symbol: "✦",
+  url: "materiales/escolar/3m/educacion-ciudadana/u4/U4-SINTESIS-3M-EDC.html"
+},
+
+{
+  id: 38,
+  title: "Síntesis de estudio: Verdad, lenguaje y diálogo",
+  section: "school",
+  level: "3º Medio",
+  subject: "Filosofía",
+  unit: "Unidad 4",
+  type: "Síntesis de estudio",
+  description: "Biblioteca interactiva sobre verdad, lenguaje, posverdad, argumentación, relaciones de poder, diálogo filosófico y participación ciudadana.",
+  tags: [
+    "Síntesis de unidad",
+    "Mapas de estudio",
+    "Filosofía",
+    "Verdad",
+    "Lenguaje",
+    "Posverdad",
+    "Argumentación",
+    "Diálogo filosófico",
+    "Pensamiento crítico"
+  ],
+  color: "#765575",
+  symbol: "✦",
+  url: "materiales/escolar/3m/filosofia/u4/U4-SINTESIS-3M-FIL.html"
+},
+
+{
+  id: 39,
+  title: "Síntesis de estudio: Reproducción humana y autocuidado",
+  section: "school",
+  level: "7º Básico",
+  subject: "Biología",
+  unit: "Unidad 4",
+  type: "Síntesis de estudio",
+  description: "Biblioteca interactiva sobre los sistemas reproductores, el ciclo menstrual, la fecundación, el desarrollo embrionario, los métodos anticonceptivos y el autocuidado responsable.",
+  tags: [
+    "Síntesis de unidad",
+    "Mapas de estudio",
+    "Reproducción humana",
+    "Sistemas reproductores",
+    "Ciclo menstrual",
+    "Fecundación",
+    "Desarrollo embrionario",
+    "Métodos anticonceptivos",
+    "Autocuidado"
+  ],
+  color: "#587a70",
+  symbol: "✦",
+  url: "materiales/escolar/7b/biologia/u4/U4-SINTESIS-7B-BIO.html"
+},
+
+{
+  id: 40,
+  title: "Síntesis de estudio: Civilizaciones americanas",
+  section: "school",
+  level: "7º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Síntesis de estudio",
+  description: "Biblioteca interactiva sobre las civilizaciones maya, azteca e inca: territorio, organización política y económica, tecnologías, cosmovisiones y legados culturales.",
+  tags: [
+    "Síntesis de unidad",
+    "Mapas de estudio",
+    "Civilizaciones americanas",
+    "Mayas",
+    "Aztecas",
+    "Incas",
+    "Mesoamérica",
+    "Mundo andino",
+    "Legado cultural"
+  ],
+  color: "#765575",
+  symbol: "✦",
+  url: "materiales/escolar/7b/historia/u4/U4-SINTESIS-7B-HIS.html"
+},
+
+{
+  id: 41,
+  title: "Síntesis de estudio: Las regiones de América y Chile",
+  section: "school",
+  level: "8º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Síntesis de estudio",
+  description: "Biblioteca interactiva sobre criterios de regionalización, regiones naturales y administrativas, características de América y Chile, desarrollo humano, sustentabilidad y desafíos territoriales.",
+  tags: [
+    "Síntesis de unidad",
+    "Mapas de estudio",
+    "Regionalización",
+    "Regiones de Chile",
+    "América",
+    "Zonas naturales",
+    "Desarrollo humano",
+    "Sustentabilidad",
+    "Desigualdad territorial"
+  ],
+  color: "#587a70",
+  symbol: "✦",
+  url: "materiales/escolar/8b/historia/u4/U4-SINTESIS-8B-HIS.html"
 }
+
 
 
 

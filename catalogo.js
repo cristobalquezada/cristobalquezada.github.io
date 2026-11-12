@@ -943,7 +943,457 @@ window.CATALOGO_MATERIALES = [
   color: "#587a70",
   symbol: "✦",
   url: "materiales/escolar/8b/historia/u4/U4-SINTESIS-8B-HIS.html"
+},
+  
+{
+  id: 42,
+  title: "Cierre 1: Leer para comprender la historia",
+  section: "school",
+  level: "2º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Estrategias de comprensión lectora para identificar ideas principales, interpretar fuentes históricas y construir respuestas fundamentadas.",
+  tags: [
+    "Cierre de año",
+    "Comprensión lectora",
+    "Historia",
+    "Interpretación de textos",
+    "Habilidades de estudio"
+  ],
+  color: "#587a70",
+  symbol: "✦",
+  url: "materiales/escolar/2m/historia/u4/CIERRE-01-2M-HIS.html"
+},
+
+{
+  id: 43,
+  title: "Cierre 1+2: Leer, relacionar y fundamentar",
+  section: "school",
+  level: "3º Medio",
+  subject: "Filosofía y Educación Ciudadana",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Comprensión lectora, identificación de evidencias, comparación de perspectivas y construcción de argumentos sobre libertad, tecnología y participación democrática.",
+  tags: [
+    "Cierre de año",
+    "Filosofía",
+    "Educación Ciudadana",
+    "Comprensión lectora",
+    "Argumentación",
+    "Pensamiento crítico",
+    "Libertad",
+    "Educación superior"
+  ],
+  color: "#705c7b",
+  symbol: "✦",
+  url: "materiales/escolar/3m/CIERRE-01+02-3M-FIL-EDC.html"
+},
+
+{
+  id: 44,
+  title: "Cierre 3: Cerrar el año, preparar lo que viene",
+  section: "school",
+  level: "3º Medio",
+  subject: "Filosofía y Educación Ciudadana",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Estrategias de aprendizaje autónomo para la educación superior: lectura de instrucciones, toma de apuntes, organización de información, escritura y revisión de respuestas.",
+  tags: [
+    "Cierre de año",
+    "Autonomía",
+    "Comprensión lectora",
+    "Técnicas de estudio",
+    "Toma de apuntes",
+    "Redacción",
+    "Argumentación",
+    "Educación superior"
+  ],
+  color: "#705c7b",
+  symbol: "✦",
+  url: "materiales/escolar/3m/CIERRE-03-3M-FIL-EDC.html"
+},
+
+{
+  id: 45,
+  title: "Cierre 1: Ideas que cambiaron la política",
+  section: "school",
+  level: "1º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Repaso del liberalismo, la soberanía popular, la república, el Estado nación y la independencia americana. Reconocimiento de conceptos y ejemplos históricos.",
+  tags: [
+    "Cierre de año",
+    "Liberalismo",
+    "República",
+    "Soberanía popular",
+    "Estado nación",
+    "Independencia",
+    "Comprensión lectora"
+  ],
+  color: "#587a70",
+  symbol: "✦",
+  url: "materiales/escolar/1m/historia/u4/CIERRE-01-1M-HIS.html"
+},
+
+{
+  id: 46,
+  title: "Cierre 2: Progreso y desigualdad",
+  section: "school",
+  level: "1º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Repaso de la industrialización, el imperialismo, la Primera Guerra Mundial, el ciclo del salitre y la cuestión social. Identificación de causas y consecuencias históricas.",
+  tags: [
+    "Cierre de año",
+    "Revolución Industrial",
+    "Imperialismo",
+    "Primera Guerra Mundial",
+    "Cuestión social",
+    "Salitre",
+    "Causas y consecuencias"
+  ],
+  color: "#587a70",
+  symbol: "✦",
+  url: "materiales/escolar/1m/historia/u4/CIERRE-02-1M-HIS.html"
+},
+
+{
+  id: 47,
+  title: "Cierre 3: Territorio, conflicto y perspectivas",
+  section: "school",
+  level: "1º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Repaso de la expansión territorial chilena, la colonización del sur, la ocupación de la Araucanía y la Guerra del Pacífico. Comparación de hechos y perspectivas históricas.",
+  tags: [
+    "Cierre de año",
+    "Expansión territorial",
+    "Estado chileno",
+    "Ocupación de la Araucanía",
+    "Guerra del Pacífico",
+    "Pueblos originarios",
+    "Perspectivas históricas"
+  ],
+  color: "#587a70",
+  symbol: "✦",
+  url: "materiales/escolar/1m/historia/u4/CIERRE-03-1M-HIS.html"
+},
+
+{
+  id: 48,
+  title: "Cierre 4: Decisiones económicas cotidianas",
+  section: "school",
+  level: "1º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Aplicación de conceptos económicos: escasez, costo de oportunidad, agentes económicos, oferta, demanda, inflación y consumo responsable.",
+  tags: [
+    "Cierre de año",
+    "Economía",
+    "Escasez",
+    "Costo de oportunidad",
+    "Oferta y demanda",
+    "Inflación",
+    "Educación financiera",
+    "Consumo responsable"
+  ],
+  color: "#587a70",
+  symbol: "✦",
+  url: "materiales/escolar/1m/historia/u4/CIERRE-04-1M-HIS.html"
+},
+
+{
+  id: 49,
+  title: "Cierre 2: Un mundo dividido",
+  section: "school",
+  level: "2º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Repaso de la Guerra Fría, la descolonización, la Revolución cubana y los conflictos políticos en América Latina y Chile. Reconocimiento de contextos y conexiones históricas.",
+  tags: [
+    "Cierre de año",
+    "Guerra Fría",
+    "Descolonización",
+    "Revolución cubana",
+    "América Latina",
+    "Historia de Chile",
+    "Contexto histórico",
+    "Comprensión lectora"
+  ],
+  color: "#587a70",
+  symbol: "✦",
+  url: "materiales/escolar/2m/historia/u4/CIERRE-02-2M-HIS.html"
+},
+
+{
+  id: 50,
+  title: "Cierre 3: Dictadura, derechos y democracia",
+  section: "school",
+  level: "2º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Repaso de la dictadura militar chilena, las violaciones a los derechos humanos, las transformaciones económicas y la transición democrática. Análisis de evidencias históricas.",
+  tags: [
+    "Cierre de año",
+    "Dictadura militar",
+    "Derechos humanos",
+    "Estado de derecho",
+    "Neoliberalismo",
+    "Transición democrática",
+    "Evidencia histórica",
+    "Argumentación"
+  ],
+  color: "#587a70",
+  symbol: "✦",
+  url: "materiales/escolar/2m/historia/u4/CIERRE-03-2M-HIS.html"
+},
+
+{
+  id: 51,
+  title: "Cierre 4: Historia para comprender el presente",
+  section: "school",
+  level: "2º Medio",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Síntesis de procesos del siglo XX y su relación con desafíos actuales: Estado, democracia, derechos humanos, participación ciudadana y cambios sociales.",
+  tags: [
+    "Cierre de año",
+    "Historia contemporánea",
+    "Democracia",
+    "Estado",
+    "Derechos humanos",
+    "Participación ciudadana",
+    "Pensamiento crítico",
+    "Argumentación histórica"
+  ],
+  color: "#587a70",
+  symbol: "✦",
+  url: "materiales/escolar/2m/historia/u4/CIERRE-04-2M-HIS.html"
+},
+
+{
+  id: 52,
+  title: "Cierre 1: Poblamiento y formas de vida",
+  section: "school",
+  level: "7º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Repaso del poblamiento americano y las primeras sociedades humanas. Comparación de modos de vida e identificación de evidencias históricas.",
+  tags: [
+    "Cierre de año",
+    "Poblamiento americano",
+    "Prehistoria",
+    "Primeras sociedades",
+    "Formas de vida",
+    "Comprensión lectora",
+    "Comparación histórica"
+  ],
+  color: "#765575",
+  symbol: "✦",
+  url: "materiales/escolar/7b/historia/u4/CIERRE-01-7B-HIS.html"
+},
+
+{
+  id: 53,
+  title: "Cierre 2: Ciudades y participación",
+  section: "school",
+  level: "7º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Repaso de las civilizaciones antiguas, la organización de las ciudades, las instituciones políticas y las formas de participación ciudadana.",
+  tags: [
+    "Cierre de año",
+    "Civilizaciones antiguas",
+    "Ciudades",
+    "Grecia",
+    "Roma",
+    "Participación política",
+    "Ciudadanía",
+    "Comprensión lectora"
+  ],
+  color: "#765575",
+  symbol: "✦",
+  url: "materiales/escolar/7b/historia/u4/CIERRE-02-7B-HIS.html"
+},
+
+{
+  id: 54,
+  title: "Cierre 3: Campo y ciudades medievales",
+  section: "school",
+  level: "7º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Repaso de la sociedad medieval, el feudalismo, la vida rural y el crecimiento de las ciudades. Identificación de cambios, continuidades y transformaciones sociales.",
+  tags: [
+    "Cierre de año",
+    "Edad Media",
+    "Feudalismo",
+    "Sociedad medieval",
+    "Vida rural",
+    "Ciudades medievales",
+    "Cambio y continuidad",
+    "Comprensión lectora"
+  ],
+  color: "#765575",
+  symbol: "✦",
+  url: "materiales/escolar/7b/historia/u4/CIERRE-03-7B-HIS.html"
+},
+
+{
+  id: 55,
+  title: "Cierre 4: Civilizaciones americanas",
+  section: "school",
+  level: "7º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Repaso de las civilizaciones maya, azteca e inca, considerando territorio, organización social y económica, tecnologías, cosmovisiones y legados culturales.",
+  tags: [
+    "Cierre de año",
+    "Civilizaciones americanas",
+    "Mayas",
+    "Aztecas",
+    "Incas",
+    "Legado cultural",
+    "Comparación histórica",
+    "Evidencia"
+  ],
+  color: "#765575",
+  symbol: "✦",
+  url: "materiales/escolar/7b/historia/u4/CIERRE-04-7B-HIS.html"
+},
+
+{
+  id: 56,
+  title: "Cierre 1: Microorganismos y defensas",
+  section: "school",
+  level: "7º Básico",
+  subject: "Biología",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Repaso de microorganismos, agentes patógenos, enfermedades infecciosas y mecanismos de defensa del organismo. Comprensión de textos científicos y relaciones de causa y efecto.",
+  tags: [
+    "Cierre de año",
+    "Microorganismos",
+    "Bacterias",
+    "Virus",
+    "Sistema inmunológico",
+    "Prevención",
+    "Salud",
+    "Comprensión científica"
+  ],
+  color: "#547b6a",
+  symbol: "✦",
+  url: "materiales/escolar/7b/biologia/u4/CIERRE-01-7B-BIO.html"
+},
+
+{
+  id: 57,
+  title: "Cierre 2: Reproducción y autocuidado",
+  section: "school",
+  level: "7º Básico",
+  subject: "Biología",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Repaso de reproducción humana, fecundación, desarrollo embrionario, métodos anticonceptivos y autocuidado. Interpretación de información científica y decisiones responsables.",
+  tags: [
+    "Cierre de año",
+    "Reproducción humana",
+    "Fecundación",
+    "Desarrollo embrionario",
+    "Métodos anticonceptivos",
+    "Autocuidado",
+    "Salud sexual",
+    "Comprensión científica"
+  ],
+  color: "#547b6a",
+  symbol: "✦",
+  url: "materiales/escolar/7b/biologia/u4/CIERRE-02-7B-BIO.html"
+},
+
+{
+  id: 58,
+  title: "Cierre 1: Transformaciones de la Edad Moderna",
+  section: "school",
+  level: "8º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Repaso de las transformaciones culturales, religiosas, políticas y científicas de la Edad Moderna. Identificación de causas, cambios históricos e información en fuentes.",
+  tags: [
+    "Cierre de año",
+    "Edad Moderna",
+    "Humanismo",
+    "Renacimiento",
+    "Reforma religiosa",
+    "Ciencia moderna",
+    "Cambio histórico",
+    "Comprensión lectora"
+  ],
+  color: "#496d7b",
+  symbol: "✦",
+  url: "materiales/escolar/8b/historia/u4/CIERRE-01-8B-HIS.html"
+},
+
+{
+  id: 59,
+  title: "Cierre 2: Conquista y sociedad colonial",
+  section: "school",
+  level: "8º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Repaso de la conquista de América, la organización colonial, el mestizaje y las relaciones entre españoles y pueblos originarios. Análisis de causas, consecuencias y continuidades culturales.",
+  tags: [
+    "Cierre de año",
+    "Conquista de América",
+    "Sociedad colonial",
+    "Mestizaje",
+    "Pueblos originarios",
+    "Evangelización",
+    "Cambio y continuidad",
+    "Comprensión lectora"
+  ],
+  color: "#496d7b",
+  symbol: "✦",
+  url: "materiales/escolar/8b/historia/u4/CIERRE-02-8B-HIS.html"
+},
+
+{
+  id: 60,
+  title: "Cierre 3: Regiones, conexiones y bienestar",
+  section: "school",
+  level: "8º Básico",
+  subject: "Historia",
+  unit: "Unidad 4",
+  type: "Clase de cierre",
+  description: "Repaso de las regiones de Chile, la conectividad territorial, la distribución de servicios y las desigualdades en calidad de vida. Análisis geográfico y propuestas de desarrollo regional.",
+  tags: [
+    "Cierre de año",
+    "Regiones de Chile",
+    "Regionalización",
+    "Conectividad",
+    "Desigualdad territorial",
+    "Calidad de vida",
+    "Desarrollo regional",
+    "Sustentabilidad"
+  ],
+  color: "#496d7b",
+  symbol: "✦",
+  url: "materiales/escolar/8b/historia/u4/CIERRE-03-8B-HIS.html"
 }
+
 
 
 
